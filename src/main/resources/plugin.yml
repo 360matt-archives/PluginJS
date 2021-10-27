@@ -1,0 +1,5 @@
+name: PluginJS
+version: 1.0
+author: 360matt
+main: fr.i360matt.pluginjs.Main
+api-version: 1.17
